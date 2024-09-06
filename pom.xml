@@ -6,4 +6,5 @@
       <artifactId>lucene-core</artifactId>
       <version>9.10.0</version>
     </dependency>
+  </dependencies>
 </project>
